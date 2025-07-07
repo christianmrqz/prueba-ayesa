@@ -1,4 +1,4 @@
-# Prueba Técnica Frontend ( Vue)
+# Prueba Técnica Frontend (Vue)
 
 ## Descripción
 
